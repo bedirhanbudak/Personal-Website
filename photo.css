@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+}
+
+.photo ul {
+  position:relative;
+  margin:0;
+  padding:0;
+}
+  
+.photo li {
+  text-align:center;
+  display:inline-block;
+  list-style:none;
+  position:relative;
+  border:solid 5px #fff;
+  background:#fff;
+  box-shadow:0 0 15px 0px #555;
+  transition:all 1s ease;
+  -o-transition:all 1s ease;
+  -moz-transition:all 1s ease;
+  -webkit-transition:all 1s ease;
+  top: 50px;
+  margin-top: 45px;
+  margin-right: 35px;
+}
+  
+.photo li:hover{
+  top:0px;
+}
+
+img {
+  height: 250px;
+  width: 300px;
+}
+
+@media all and (max-width: 580px) {
+  img {
+    height: 200px;
+    width: 250px;
+  }
+}
+
+/*
+.photo li:nth-child(n) {
+  transform:rotate(5deg);
+}
+
+.photo li:nth-child(2n) {
+  transform:rotate(-5deg);
+}
+
+.photo li:nth-child(3n) {
+  transform:rotate(10deg);
+}
+
+.photo li:nth-child(5n) {
+  transform:rotate(-10deg);
+}
+*/
