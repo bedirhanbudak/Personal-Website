@@ -1,8 +1,5 @@
-## Table of contents
-* [Website Hierarchy](#website-hierarchy)
-* [Home Page](#home-page)
-* [Website](#website)
-* [Contact Me](#contact-me)
+## General Info
+This project is my personal website which is created by me with using HTML and CSS.
 
 ## Website Hierarchy
 * Home
@@ -15,9 +12,6 @@
 * Courses
 * Video Games
 * Photograph
-
-## General Info
-This project is my personal website which is created by me with using HTML and CSS.
 
 ## Home Page
 
