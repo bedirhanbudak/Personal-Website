@@ -21,7 +21,7 @@ This project is my personal website which is created by me with using HTML and C
 
 ## Home Page
 
-![Home Page](https://raw.githubusercontent.com/bedirhanbudak/Personal-Website/main/assets/images/HomePage.png?token=GHSAT0AAAAAAB6MERGTOGLE47R5QMFWB4A6Y7CXAEA)
+![Home Page](https://raw.githubusercontent.com/bedirhanbudak/Personal-Website/main/assets/images/HomePage.png?token=GHSAT0AAAAAAB6MERGS4GXF7NAOYHGGK4AUY7CYEJA)
 
 ## Website
 
