@@ -22,9 +22,9 @@ My academic and experiential background, my certificates and courses, screenshot
 
 ## Contact Me
 
-**LinkedIn:** [bedirhanbudak](https://www.linkedin.com/in/bedirhan-budak/)
+**LinkedIn:** [bedirhanbudak](https://www.linkedin.com/in/bedirhanbudak)
 
-**Telegram:** [@bedirhanb](https://t.me/bedirhanb)
+**Telegram:** [@bedirhanbudak](https://t.me/bedirhanbudak)
 
 ## License & Copyright
 
